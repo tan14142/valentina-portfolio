@@ -27,7 +27,6 @@ section > div:nth-child(3) {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 1rem;
 }
 
 @media (min-width: 768px) {
